@@ -53,7 +53,7 @@ Guessed in 3 attempts
 
 ## Screenshot
 
-![Wordle Solver Screenshot](path/to/your/screenshot.png)
+![Wordle Solver Screenshot](wordle_game.png)
 
 ## Conclusion
 
